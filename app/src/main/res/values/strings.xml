@@ -2,5 +2,6 @@
     <string name="app_name">Feliz Aniversário</string>
     <string name="clique_aqui">Clique Aqui</string>
     <string name="texto_toast">O botâo foi clicado!</string>
-    <string name="supresa">Tenho uma supresa para você!</string>
+    <string name="surpresa">Tenho uma supresa para você!</string>
+    <string name="frase_surpresa">Você está de parabéns. Feliz aniversário e muitas felicidades sempre! A vida é maravilhosa e viver é um privilégio, por isso comemorar aniversário deve ser sempre motivo de alegria e gratidão. Parabéns, muitas felicidades e celebre em grande estilo mais um ano de vida!</string>
 </resources>

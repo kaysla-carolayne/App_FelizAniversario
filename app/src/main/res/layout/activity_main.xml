@@ -27,7 +27,7 @@
         android:textSize="16sp"
         android:layout_margin="16dp"
         android:layout_marginBottom="0dp"
-        android:text="@string/supresa"
+        android:text="@string/surpresa"
         android:fontFamily="casual"
         android:textColor="@color/black"
         app:layout_constraintBottom_toTopOf="@+id/btnEnviar"
